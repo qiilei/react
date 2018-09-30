@@ -1,10 +1,8 @@
-# react
-react相关精品demo
 
-### BaseCode
+## 世上没有学不会的知识！
 > qilei 个人代码
 
-## Saved
+## 
 ```
 # 一、awesome-react-components
 https://github.com/brillout/awesome-react-components
@@ -34,16 +32,7 @@ https://react.docschina.org
 * React.js-dianping
 * React.js-jichu
 * React.js-rumen-and-shijian
-* React.js-xinwentoutiao
-  见网盘
+* React.js-xinwentoutiao    见网盘
 
+React中文文档  https://react.docschina.org/
 
-
-
-
-```
-## Deleted
-```
-
-
-```
